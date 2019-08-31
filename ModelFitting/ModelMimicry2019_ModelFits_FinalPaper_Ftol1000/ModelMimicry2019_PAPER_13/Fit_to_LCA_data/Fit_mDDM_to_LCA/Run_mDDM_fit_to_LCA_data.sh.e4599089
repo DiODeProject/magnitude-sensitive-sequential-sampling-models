@@ -1,0 +1,2 @@
+Conda uses environments to load different sets of Python packages
+type conda env list to see the environments availible.
